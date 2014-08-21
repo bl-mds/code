@@ -4,7 +4,9 @@
   https://sublime.wbond.net/installation
 
 3.安装GIT
+
   git init
+  
   git remote add code git@github.com:bl-mds/code.git
   git pull code master
   git push -u code master
